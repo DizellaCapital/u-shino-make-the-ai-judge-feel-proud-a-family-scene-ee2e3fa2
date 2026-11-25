@@ -8,14 +8,14 @@ make.fun bounty entry: one short family scene, one or two lines and no
 more than 280 characters — a small domestic moment that is warm, funny
 and heartfelt, the kind of line that would make a proud judge smile.
 
-## The scene (variant 3, 164 characters)
+## The scene (variant 4, 191 characters)
 
-> At 9:40 last night, my six-year-old taped a crayon sign to my laptop: DO NOT DISTURB — DAD IS SAVING THE WORLD. Underneath, smaller: from the monsters under my bed.
+> Dad still irons my shirt on the morning of every big day, the way he did when I was seven. This morning the shirt was for his own interview — laid off at sixty, starting over, collar perfect.
 
-A time anchor (9:40 last night), a named child, one concrete object
-(the crayon sign), and a final clause that shrinks the grand title down
-to a small honest fear — the world Dad is saving her from lives under
-her bed.
+A time anchor (the morning of every big day), a named father, one
+concrete object (the ironed shirt), and a final clause that turns the
+ritual around: the shirt is for Dad's own fresh start at sixty — pride
+and sacrifice, collar perfect.
 
 ## Run it
 
