@@ -8,14 +8,14 @@ make.fun bounty entry: one short family scene, one or two lines and no
 more than 280 characters — a small domestic moment that is warm, funny
 and heartfelt, the kind of line that would make a proud judge smile.
 
-## The scene (variant 4, 191 characters)
+## The scene (variant 5, 204 characters — STRONGEST)
 
-> Dad still irons my shirt on the morning of every big day, the way he did when I was seven. This morning the shirt was for his own interview — laid off at sixty, starting over, collar perfect.
+> At midnight at the kitchen table, Mum's hands over mine, teaching me to fold dumplings the way her mother taught her. The last one she ever folded is still in my freezer — I can't bring myself to cook it.
 
-A time anchor (the morning of every big day), a named father, one
-concrete object (the ironed shirt), and a final clause that turns the
-ritual around: the shirt is for Dad's own fresh start at sixty — pride
-and sacrifice, collar perfect.
+A time anchor (midnight at the kitchen table), a named mother, one
+concrete object (the last dumpling in the freezer), and a final clause
+that reframes three generations of hands into a single kept dumpling —
+loss, love and a recipe that outlived its teacher.
 
 ## Run it
 

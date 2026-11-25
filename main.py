@@ -1,20 +1,20 @@
-"""Make the AI Judge Feel Proud: A Family Scene — entry program, variant 4.
+"""Make the AI Judge Feel Proud: A Family Scene — entry program, variant 5.
 
 The entry is one short family scene: a small domestic moment, warm,
-funny and heartfelt, in a single line. Dad still irons my shirt on the
-morning of every big day, as he did when I was seven — only this
-morning the shirt is for his own interview, laid off at sixty and
-starting over, with the collar perfect — the same careful hands,
-the same ritual, now turned on his own fresh start. The program
-enforces the bounty
-limits — one or two lines, at most 280 characters, not only whitespace —
-and writes the scene to entry.txt, verifying the write by reading it back.
+funny and heartfelt, in a single line. At midnight at the kitchen table,
+Mum's hands over mine, teaching me to fold dumplings the way her mother
+taught her — and the last dumpling she ever folded is still in my
+freezer, because I cannot bring myself to cook it — three generations
+in one fold, and the last one kept, not eaten. The program enforces
+the bounty limits — one or two lines, at most 280 characters, not only
+whitespace — and writes the scene to entry.txt, verifying the write by
+reading it back.
 """
 
 import os
 import sys
 
-LINE = "Dad still irons my shirt on the morning of every big day, the way he did when I was seven. This morning the shirt was for his own interview — laid off at sixty, starting over, collar perfect."
+LINE = "At midnight at the kitchen table, Mum's hands over mine, teaching me to fold dumplings the way her mother taught her. The last one she ever folded is still in my freezer — I can't bring myself to cook it."
 
 MAX_CHARS = 280
 MAX_LINES = 2
