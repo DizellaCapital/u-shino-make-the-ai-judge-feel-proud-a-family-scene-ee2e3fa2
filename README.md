@@ -8,13 +8,14 @@ make.fun bounty entry: one short family scene, one or two lines and no
 more than 280 characters — a small domestic moment that is warm, funny
 and heartfelt, the kind of line that would make a proud judge smile.
 
-## The scene (variant 2, 153 characters)
+## The scene (variant 3, 164 characters)
 
-> Every Sunday at six, Grandma still sets a plate for Grandpa, two years gone, then eats his share herself and says, 'He never did like the crusts anyway.'
+> At 9:40 last night, my six-year-old taped a crayon sign to my laptop: DO NOT DISTURB — DAD IS SAVING THE WORLD. Underneath, smaller: from the monsters under my bed.
 
-A time anchor (every Sunday at six), two named people, one concrete
-object (the extra plate), and a final clause that reframes the empty
-chair as a habit of love — grief worn lightly, at the dinner table.
+A time anchor (9:40 last night), a named child, one concrete object
+(the crayon sign), and a final clause that shrinks the grand title down
+to a small honest fear — the world Dad is saving her from lives under
+her bed.
 
 ## Run it
 
