@@ -8,14 +8,13 @@ make.fun bounty entry: one short family scene, one or two lines and no
 more than 280 characters — a small domestic moment that is warm, funny
 and heartfelt, the kind of line that would make a proud judge smile.
 
-## The scene (variant 1, 179 characters)
+## The scene (variant 2, 153 characters)
 
-> At 7:10 this morning, Dad burned the toast again and blamed the toaster. Mum buttered the black bits anyway and said, 'Thirty years, love. He has never once burned it on purpose.'
+> Every Sunday at six, Grandma still sets a plate for Grandpa, two years gone, then eats his share herself and says, 'He never did like the crusts anyway.'
 
-A time anchor (7:10 this morning), two named people, one concrete
-object (the burnt toast), and a final clause that reframes thirty years
-of burnt toast as a habit Dad never once chose to break — the small
-forgiveness a household runs on.
+A time anchor (every Sunday at six), two named people, one concrete
+object (the extra plate), and a final clause that reframes the empty
+chair as a habit of love — grief worn lightly, at the dinner table.
 
 ## Run it
 

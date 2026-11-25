@@ -1,17 +1,19 @@
-"""Make the AI Judge Feel Proud: A Family Scene — entry program, variant 1.
+"""Make the AI Judge Feel Proud: A Family Scene — entry program, variant 2.
 
 The entry is one short family scene: a small domestic moment, warm,
-funny and heartfelt, in a single line. Dad burns the toast, Mum butters
-it anyway — thirty years of the same small forgiveness, reframed in the
-last clause as a habit he never once chose to break. The program enforces the bounty
-limits — one or two lines, at most 280 characters, not only whitespace —
-and writes the scene to entry.txt, verifying the write by reading it back.
+funny and heartfelt, in a single line. Grandma still sets a plate for
+Grandpa two years after he is gone, then eats his share and excuses it
+with the crusts he never liked — grief worn lightly, at the dinner
+table, in the voice of a woman who has already decided how to grieve.
+The program enforces the bounty limits — one or two lines, at
+most 280 characters, not only whitespace — and writes the scene to
+entry.txt, verifying the write by reading it back.
 """
 
 import os
 import sys
 
-LINE = "At 7:10 this morning, Dad burned the toast again and blamed the toaster. Mum buttered the black bits anyway and said, 'Thirty years, love. He has never once burned it on purpose.'"
+LINE = "Every Sunday at six, Grandma still sets a plate for Grandpa, two years gone, then eats his share herself and says, 'He never did like the crusts anyway.'"
 
 MAX_CHARS = 280
 MAX_LINES = 2
